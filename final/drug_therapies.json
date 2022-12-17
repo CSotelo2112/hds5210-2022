@@ -1,0 +1,106 @@
+{
+  "drug pillars count": "4",
+  "therapy type": [
+    {
+      "ID": "01",
+      "therapy abbreviation": "ARNI",
+      "therapy name": "angiotensin receptor-neprilysin inhibitor",
+      "entry info": {
+        "medication": {
+          "clinical name": "sacubitril/valsartan",
+          "brand name": "Entresto",
+          "indication": "to reduce risk of CV death and HF hospitalization in patients w/ chronic HF",
+          "dosage": {
+            "starting dose": "24/26 mg, twice daily",
+            "tolerant starting dose": "49/51 mg, twice daily",
+            "dose adjustment": "uptitrate dose every 2 to 4 weeks to next dose",
+            "target dose": "97/103 mg twice daily"
+          },
+          "monitoring": "SBP, renal function, K levels",
+          "contraindication": "history of angioedema related to previous ACE inhibitors or ARB",
+          "side effects": [
+            "hypotension",
+            "hyperkalemia",
+            "cough",
+            "dizziness",
+            "renal insufficiency"
+          ]
+        }
+      }
+    },
+    {
+      "ID": "02",
+      "therapy abbreviation": "β-blocker",
+      "therapy name": "beta blockers",
+      "entry info": {
+        "medication": {
+          "clinical name": "bisoprolol fumarate",
+          "brand name": "Zebeta",
+          "indication": "to aid in the treatment of mild to moderate hypertension",
+          "dosage": {
+            "target dose": "10 mg daily"
+          },
+          "monitoring": "blood pressure, heart rate",
+          "contraindication": "hyperthyroidism, thyroid disease, acute heart failure, AV block, bradycardia, diabetes mellitus",
+          "side effects": [
+            "body aches or pain",
+            "chest pain",
+            "difficult or labored breathing",
+            "ear congestion",
+            "loss of voice",
+            "nasal congestion"
+          ]
+        }
+      }
+    },
+    {
+      "ID": "03",
+      "therapy abbreviation": "MRA",
+      "therapy name": "mineralocorticoid receptor antagonists",
+      "entry info": {
+        "medication": {
+          "clinical name": "spironolactone",
+          "brand name": "Aldactone",
+          "indication": "to reduce risk of CV death and HF hospitalization in patients with chronic HF",
+          "dosage": {
+            "target dose": "12.5 to 50 mg daily"
+          },
+          "monitoring": "renal function, K levels",
+          "contraindication": "advanced renal insufficiency, hyperkalemia with K > 5.5",
+          "side effects": [
+            "hypotension",
+            "hyperkalemia",
+            "hyponatremia",
+            "dizziness",
+            "renal insufficiency"
+          ]
+        }
+      }
+    },
+    {
+      "ID": "04",
+      "therapy abbreviation": "SGLT2i",
+      "therapy name": "sodium-glucose cotransporter-2 inhibitor",
+      "entry info": {
+        "medication": {
+          "clinical name": "dapagliflozin",
+          "brand name": "Farxiga",
+          "indication": "to reduce risk of CV death and HF hospitalization in patients with reduced EF",
+          "dosage": {
+            "target dose": "10 mg daily",
+            "dose adjustment": "start lower dose in elderly, renal dysfunction, and marginal BP"
+          },
+          "monitoring": "renal function (expected to drop within 2 to 4 weeks), BP",
+          "contraindication": "severe renal insufficiency (eGFR < 25), type 1 diabetes",
+          "side effects": [
+            "female genital mycotic infection, UTI, naso-pharangitis",
+            "increased urination and discomfort",
+            "volume depletion usually low incidence",
+            "renal impairment",
+            "severe hypoglycemia"
+          ]
+        }
+      }
+    }
+  ]
+}
