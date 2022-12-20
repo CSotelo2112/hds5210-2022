@@ -8,7 +8,7 @@ Your function that assigns therapy profiles is good, but a couple of suggestions
 
 For the lack of clearer test cases (-5 on Modularity/Style)
 
-Overall, solid work on teh final.
+Overall, solid work on the final.
 
 * Data Access and Formats (5): 5
 * Data Merging (5): 5
